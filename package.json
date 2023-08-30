@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/annisaameliasy/apprestapi.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annisaameliasy/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "amel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annisaameliasy/apprestapi/issues"
+  },
+  "homepage": "https://github.com/annisaameliasy/apprestapi#readme"
+}
